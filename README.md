@@ -22,9 +22,9 @@
 
 👨‍💻 About Me
 
-name: Aloysius Ajai
-role: Embedded Engineer
-specialization:
+Name: Aloysius Ajai
+Role: Embedded Engineer
+Specialization:
   - Embedded Systems
   - Robotics
   - IoT
