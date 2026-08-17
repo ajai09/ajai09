@@ -1,181 +1,158 @@
 <div align="center">
-
-ALOYSIUS AJAI
-
-Embedded Engineer · Robotics & IoT Developer · Software Engineer
-
-Building intelligent systems at the intersection of embedded hardware, robotics, IoT, and software.
-
-<br>
-<a href="https://project-hub-rho-one.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-ProjectHub-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ALOYSIUS%20AJAI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=EMBEDDED%20ENGINEER%20%7C%20ROBOTICS%20%7C%20IoT&descAlignY=58&descSize=18"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Embedded+Systems;Developing+Robotics+Projects;Creating+IoT+Solutions;Exploring+AI+%26+Automation;Turning+Ideas+Into+Real+Projects" alt="Typing SVG"/>
+<img src="https://img.shields.io/badge/ROLE-Embedded%20Engineer-6D28D9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-Robotics%20%26%20IoT-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BASED%20IN-India-4C1D95?style=for-the-badge"/>
 <a href="https://www.linkedin.com/in/aloysius-ajai-05128a2a5/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:ajaialoysius04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/ajai09">
-  <img src="https://img.shields.io/badge/GitHub-ajai09-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=Engineering+Embedded+Systems;Building+Robotics+Solutions;Developing+IoT+Products;Connecting+Hardware+%26+Software;Turning+Ideas+Into+Working+Systems" alt="Typing animation"/>
+<a href="https://project-hub-rho-one.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </div>
 
 ⸻
 
 👨‍💻 About Me
 
-I am an Embedded Engineer focused on designing and developing practical technology solutions across embedded systems, robotics, IoT, and software engineering.
+name: Aloysius Ajai
+role: Embedded Engineer
+specialization:
+  - Embedded Systems
+  - Robotics
+  - IoT
+  - Automation
+  - Full-Stack Development
+focus:
+  - Microcontrollers
+  - Embedded Firmware
+  - Smart Robotics
+  - IoT Products
+  - Hardware-Software Integration
+mindset: Learn → Build → Test → Improve
 
-My interests span the complete product-development cycle — from electronics and firmware to communication, backend systems, dashboards, and mobile applications.
+I’m an Embedded Engineer and Robotics & IoT Developer passionate about building practical systems that connect hardware, firmware, software, and intelligent automation.
 
-I enjoy solving real-world problems through hands-on engineering, rapid prototyping, system integration, and continuous experimentation.
+I enjoy working with microcontrollers, sensors, motors, communication modules, IoT platforms, robotics, web applications, and AI/ML systems.
 
-Professional Interests
-
-* Embedded Systems & Firmware Development
-* Robotics & Automation
-* IoT Product Development
-* Microcontroller-Based Systems
-* Hardware–Software Integration
-* Wireless Communication
-* MQTT & Connected Devices
-* Backend & IoT Dashboards
-* AI/ML Applications
-* Rapid Prototyping
+My goal is to transform ideas into working prototypes and reliable real-world technology solutions.
 
 ⸻
 
-⚙️ Core Technologies
+🛠️ Tech Stack
 
-Embedded Systems
+🔌 Embedded Systems & Hardware
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Embedded technologies"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 </p>
 
-Arduino · ESP32 · ESP8266 · STM32 · Raspberry Pi
+Arduino ESP32 ESP8266 STM32 Raspberry Pi
 
-Embedded C/C++ · Sensors · Actuators · Motor Control
+Sensors DC Motors Gear Motors Servo Motors Relays
 
-UART · I2C · SPI · PWM · GPIO
+LCD/TFT Displays GSM GPS Bluetooth Wi-Fi
 
 ⸻
 
-Programming
+💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
 </p>
 
-C · C++ · Python · Java · JavaScript · SQL
+C C++ Python Java JavaScript SQL
 
 ⸻
 
-Web & Backend
+🌐 Web & Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" alt="Web technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express"/>
 </p>
 
-HTML · CSS · JavaScript · React.js
+HTML CSS JavaScript React.js
 
-Node.js · Express.js · REST APIs
+Node.js Express.js REST APIs
 
 ⸻
 
-Databases & Cloud
+🗄️ Databases & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
 </p>
 
-MongoDB · MongoDB Atlas · MySQL · Firebase
+MongoDB MongoDB Atlas MySQL Firebase
 
 ⸻
 
-IoT & Communication
+📡 IoT & Communication
 
-MQTT · HiveMQ · Wi-Fi · Bluetooth
+MQTT HiveMQ Wi-Fi Bluetooth Blynk IoT
 
-Blynk IoT · GSM · GPS
+ESP32 ESP8266 GSM GPS
 
 ⸻
 
-Engineering & Development Tools
+🧰 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
 </p>
 
-Git · GitHub · VS Code
+Git GitHub VS Code Arduino IDE
 
-Arduino IDE · STM32CubeIDE · Android Studio
-
-EasyEDA · Wokwi
+STM32CubeIDE Android Studio EasyEDA Wokwi
 
 ⸻
 
-🚀 Selected Projects
+🤖 Featured Projects
 
-🤖 Smart Drainage Monitoring Rover
+🚜 Smart Drainage Monitoring Rover
 
-An IoT-enabled robotic system designed for drainage inspection and monitoring.
+An IoT-enabled robotic rover designed for drainage inspection and monitoring.
 
-Key Capabilities
+Features
 
-* Autonomous and manual navigation
-* Ultrasonic obstacle detection
-* Wireless robotic control
-* ESP32-CAM integration
-* Camera positioning using servo control
-* Automated lighting
-* Reverse movement warning
-* Motor and actuator control
+* 🚗 Manual and autonomous movement
+* 📡 Bluetooth control
+* 📷 ESP32-CAM integration
+* 🚧 Ultrasonic obstacle detection
+* 💡 Automatic headlights
+* 🔊 Reverse movement warning
+* 🎥 Camera servo control
+* 🤖 Obstacle-based movement
 
 Technology
 
-Arduino UNO ESP32-CAM L293D
+Arduino UNO L293D Motor Driver
 
-Ultrasonic Sensor DC Gear Motors Servo Motors
+ESP32-CAM Ultrasonic Sensor
 
-Bluetooth Embedded C/C++
+DC Gear Motors Servo Motors Bluetooth
 
 ⸻
 
-📡 Nextronix IoT Platform
+🏠 Nextronix IoT Platform
 
-A connected-device platform focused on remote device control, monitoring, and IoT communication.
+A smart IoT platform designed to control and monitor connected devices through a web dashboard.
 
-Architecture
+Features
 
-ESP32 Device
-     │
-     ▼
-   MQTT
-     │
-     ▼
- HiveMQ Broker
-     │
-     ▼
- Node.js Backend
-     │
-     ▼
-   MongoDB
-     │
-     ▼
- React Dashboard
-
-Capabilities
-
-* Connected-device control
-* MQTT communication
-* Real-time device status
-* Wi-Fi monitoring
-* Device management
-* Web-based dashboard
-* Cloud database integration
+* 💡 Smart device control
+* 📡 MQTT communication
+* 📊 Device status monitoring
+* 🌐 Web dashboard
+* 🗄️ MongoDB integration
+* 🔌 ESP32-based devices
 
 Technology
 
@@ -187,16 +164,13 @@ React.js Node.js MongoDB
 
 🏨 Hotel Reservation Booking System
 
-A full-stack web application designed to manage hotel operations and reservation workflows.
+A full-stack web application for managing:
 
-Modules
-
-* User management
-* Hotel and room management
-* Reservation management
-* Booking workflows
-* Backend API
-* Database integration
+* 🏨 Hotels
+* 🛏️ Rooms
+* 👤 Users
+* 📅 Reservations
+* 💳 Booking information
 
 Technology
 
@@ -204,9 +178,9 @@ React.js Node.js Express.js MongoDB
 
 ⸻
 
-🧠 Accident Risk Prediction
+🚗 Accident Risk Prediction
 
-A machine-learning application designed to evaluate accident-risk factors through a web interface.
+A machine-learning web application designed to predict accident risk using input parameters.
 
 Technology
 
@@ -216,18 +190,17 @@ Machine Learning REST API
 
 ⸻
 
-🚗 Robotics Control Application
+📱 Robotics Control Application
 
-A mobile control interface for wireless robotic systems.
+A mobile application designed to control robotic systems through wireless communication.
 
 Features
 
-* Bluetooth connectivity
-* Forward / backward control
-* Left / right control
-* Lighting control
-* Camera servo control
-* Manual / autonomous operation
+* 🔵 Bluetooth connectivity
+* 🚗 Robot movement
+* 💡 Light control
+* 🎥 Camera servo control
+* 🤖 Manual / Auto mode
 
 Technology
 
@@ -235,129 +208,125 @@ Android Java Bluetooth Arduino
 
 ⸻
 
-🔬 Engineering Approach
+🔬 Embedded Engineering Workflow
 
-I approach projects as complete systems rather than isolated components.
+                 💡 IDEA
+                   │
+                   ▼
+             🔧 CIRCUIT DESIGN
+                   │
+                   ▼
+          🧠 MICROCONTROLLER
+                   │
+                   ▼
+        📡 SENSORS & ACTUATORS
+                   │
+                   ▼
+          💻 FIRMWARE / CODE
+                   │
+                   ▼
+        📶 COMMUNICATION / IoT
+                   │
+                   ▼
+          ☁️ BACKEND / DATABASE
+                   │
+                   ▼
+       🌐 WEB / MOBILE APPLICATION
+                   │
+                   ▼
+          🤖 SMART SYSTEM
 
-                    PROBLEM
-                       │
-                       ▼
-                SYSTEM DESIGN
-                       │
-             ┌─────────┴─────────┐
-             ▼                   ▼
-          HARDWARE            SOFTWARE
-             │                   │
-             ▼                   ▼
-        MICROCONTROLLER       BACKEND
-             │                   │
-             ▼                   ▼
-          SENSORS              DATABASE
-             │                   │
-             └─────────┬─────────┘
-                       ▼
-                 COMMUNICATION
-                       │
-                       ▼
-                USER INTERFACE
-                       │
-                       ▼
-                TEST & ITERATE
-                       │
-                       ▼
-                  FINAL SYSTEM
-
-My focus is on creating solutions that are functional, maintainable, testable, and practical for real-world use.
+I enjoy working across the complete development cycle — from electronics and firmware to software, cloud services, and IoT applications.
 
 ⸻
 
-📚 Areas of Continuous Learning
+📚 My Learning Journey
 
-embedded:
-  - Embedded C/C++
-  - STM32
-  - ESP32
-  - Microcontroller Architecture
-  - Peripheral Interfaces
-robotics:
-  - Motion Control
-  - Sensors & Actuators
-  - Autonomous Navigation
-  - Robotics Automation
-iot:
-  - MQTT
-  - Connected Devices
-  - IoT Architecture
-  - Device Monitoring
-  - Cloud Integration
-software:
-  - React.js
-  - Node.js
-  - REST APIs
-  - MongoDB
-  - System Integration
-emerging:
-  - Edge AI
-  - AI + Embedded Systems
-  - Intelligent Automation
+Computer Science
+       ↓
+Programming
+       ↓
+Electronics
+       ↓
+Embedded Systems
+       ↓
+Robotics
+       ↓
+IoT Development
+       ↓
+AI + Embedded Systems
+       ↓
+Real-World Projects
+       ↓
+Professional Growth
+
+Currently Exploring
+
+* 🔧 Advanced Embedded Systems
+* ⚡ STM32 Development
+* 🤖 Robotics & Automation
+* 📡 IoT Architecture
+* 🧠 AI + Embedded Systems
+* 🌐 IoT Web Platforms
+* 🔌 Hardware-Software Integration
+* 🚀 Edge AI
 
 ⸻
 
 🎯 Current Focus
 
+learning:
+  - STM32
+  - Embedded C/C++
+  - Advanced IoT
+  - Robotics
+  - AI + Embedded Systems
+building:
+  - Smart IoT Devices
+  - Robotics Projects
+  - Embedded Applications
+  - IoT Web Platforms
+exploring:
+  - Edge AI
+  - Automation
+  - Smart Robotics
+  - Connected Devices
+goal:
+  - Build reliable embedded products
+  - Create practical real-world technology
+  - Continuously improve as an engineer
+
+⸻
+
+📊 GitHub Statistics
+
 <div align="center">
-
-Embedded	Robotics	IoT	Software
-STM32	Automation	MQTT	React
-ESP32	Motor Control	Smart Devices	Node.js
-Firmware	Sensors	Connected Systems	MongoDB
-Embedded C	Autonomous Systems	IoT Platforms	REST APIs
-
+<img src="https://github-readme-stats.vercel.app/api?username=ajai09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajai09&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ⸻
 
-📊 GitHub Activity
+🔥 GitHub Streak
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ajai09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajai09&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajai09&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajai09&theme=tokyonight&hide_border=true"/>
 </div>
 
 ⸻
 
-🧩 What I Build
+🚀 What I Like Building
 
 <div align="center">
 
-Hardware
-
-Microcontrollers · Sensors · Motors · Displays · Communication Modules
-
-⬇
-
-Embedded Software
-
-Firmware · Control Logic · Device Drivers · Communication
-
-⬇
-
-Connectivity
-
-Wi-Fi · Bluetooth · MQTT · GSM · IoT
-
-⬇
-
-Software Platform
-
-Backend · Database · APIs · Web Dashboard · Mobile Apps
-
-⬇
-
-Final Product
-
-Connected · Intelligent · Automated Systems
+🤖 Robotics	🔌 Embedded	📡 IoT
+Autonomous Robots	Microcontroller Systems	Smart Devices
+Motor Control	Sensor Systems	MQTT Systems
+Automation	Firmware	Connected Devices
+🌐 Software	🧠 AI	🔧 Hardware
+Web Applications	ML Applications	Prototypes
+Mobile Apps	Intelligent Systems	Electronics
+Backend Systems	AI + IoT	PCB Design
 
 </div>
 
@@ -367,30 +336,28 @@ Connected · Intelligent · Automated Systems
 
 <div align="center">
 
-Learn → Design → Build → Test → Improve
+Learn → Build → Test → Improve → Repeat
 
-Engineering is not just about writing code or assembling hardware.
-It is about turning a problem into a reliable solution.
+“Ideas become innovation when you build them.” ⚡
 
 </div>
 
 ⸻
 
-🤝 Let’s Connect
+🌐 Connect With Me
 
 <div align="center">
-
-If you’re interested in Embedded Systems, Robotics, IoT, Automation, or technology projects, feel free to connect.
-
-<br>
 <a href="https://www.linkedin.com/in/aloysius-ajai-05128a2a5/">
 <img src="https://img.shields.io/badge/LinkedIn-Aloysius%20Ajai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://project-hub-rho-one.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-ProjectHub-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 <a href="mailto:ajaialoysius04@gmail.com">
-<img src="https://img.shields.io/badge/Email-ajaialoysius04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-ajaialoysius04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://project-hub-rho-one.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-ProjectHub-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/ajai09">
+<img src="https://img.shields.io/badge/GitHub-ajai09-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
 
@@ -398,8 +365,8 @@ If you’re interested in Embedded Systems, Robotics, IoT, Automation, or techno
 
 <div align="center">
 
-⚡ BUILD · INNOVATE · AUTOMATE
+⚡ Keep Building. Keep Learning. Keep Growing.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Embedded+Systems+%7C+Robotics+%7C+IoT;Hardware+%2B+Software+%2B+Innovation;Building+Technology+That+Solves+Problems" alt="Footer animation"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Code+%7C+Learn+%7C+Build+%7C+Grow;One+Project+At+A+Time+%F0%9F%9A%80;Hardware+%2B+Software+%2B+Innovation;Turning+Ideas+Into+Reality+%E2%9A%A1" alt="Footer Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
